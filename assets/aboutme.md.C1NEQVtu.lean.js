@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,a0 as l}from"./chunks/framework.DIN1wW8O.js";const m=JSON.parse('{"title":"József Fülöp","description":"","frontmatter":{},"headers":[],"relativePath":"aboutme.md","filePath":"aboutme.md"}'),i={name:"aboutme.md"};function o(n,t,s,d,f,h){return r(),a("div",null,t[0]||(t[0]=[l("",5)]))}const p=e(i,[["render",o]]);export{m as __pageData,p as default};
